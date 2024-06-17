@@ -1,9 +1,21 @@
 {
-  "folders": [
-	{
-		"name": "SensorTemperaturaESP32_ProjetoFinal",
-		"path": "../SensorTemperaturaESP32_ProjetoFinal"
-	}
-],
-  "settings": {}
-}
+	"folders": [
+	  {
+		  "name": "Reles_ESP8266",
+		  "path": "../Reles_ESP8266"
+	  },
+	  {
+		  "name": "RFID_ESP8266",
+		  "path": "../RFID_ESP8266"
+	  },
+	  {
+		  "name": "SensorTemperatura_ESP32",
+		  "path": "../SensorTemperatura_ESP32"
+	  },
+	  {
+		  "name": "SensorTemperatura_ESP8266",
+		  "path": "../SensorTemperatura_ESP8266"
+	  }
+  ],
+"settings": {}
+	  
