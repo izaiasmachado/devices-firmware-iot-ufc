@@ -1,16 +1,8 @@
 {
   "folders": [
 	{
-		"name": "SensorTemperatura_ProjetoFinal",
-		"path": "../SensorTemperatura_ProjetoFinal"
-	},
-	{
-		"name": "RFID_ProjetoFinal",
-		"path": "../RFID_ProjetoFinal"
-	},
-	{
-		"name": "Reles_ProjetoFinal",
-		"path": "../Reles_ProjetoFinal"
+		"name": "SensorTemperaturaESP32_ProjetoFinal",
+		"path": "../SensorTemperaturaESP32_ProjetoFinal"
 	}
 ],
   "settings": {}
